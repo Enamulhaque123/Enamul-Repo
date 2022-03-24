@@ -9,6 +9,8 @@ public class CreateOrg1 {
 		
 		System.out.println("Enamul Enamul");
 		
+		System.out.println("ahmed created");
+		
 	}
 
 }
